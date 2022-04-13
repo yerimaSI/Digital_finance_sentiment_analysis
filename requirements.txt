@@ -1,0 +1,4 @@
+pandas
+snscrape
+nltk
+deep_translator
